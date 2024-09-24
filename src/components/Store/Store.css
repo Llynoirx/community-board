@@ -1,0 +1,29 @@
+.store-card {
+    border: 1px solid whitesmoke;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 750px;
+    height: auto; /* Adjust height automatically */
+    margin: 16px;
+    text-align: center;
+    background-color: white;
+}
+
+.store-image {
+    width: 100%; /* Ensures the image takes up the full width of the card */
+    height: auto; 
+    object-fit: contain; /* Ensures the entire image is visible */
+    background-color: #f0f0f0;
+}
+
+.store-name {
+    font-size: 1.5em;
+    margin: 0.5em 0;
+}
+
+.store-location {
+    font-size: 1.2em;
+    color: grey;
+    margin: 0.5em 0;
+}

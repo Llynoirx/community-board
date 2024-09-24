@@ -8,11 +8,11 @@ const Store = ({img, name, location, url}) =>  {
         window.open(url, '_blank'); 
     }
     return (
-        <div className='Store'>
-            <img src={img} alt={name}/>
-            <h2>{name}</h2>
-            <h3>{location}</h3>
-            <Button onClick={handleClick}> See Menu! </Button>
+        <div className='store-card'>
+            <img className='store-img' src={img} alt={name}/>
+            <h2 className='store-name'>{name}</h2>
+            <h3 className='store-location'>{location}</h3>
+            <Button onClick={handleClick}>See Menu!</Button>
         </div>
     )
 }

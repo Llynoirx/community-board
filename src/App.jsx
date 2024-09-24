@@ -3,9 +3,9 @@ import Store from './components/Store/Store'
 
 const App = () => {
   const mangomango = {
-    img: '/images/mangomango.jpeg',
+    img: '/images/mangomango.png',
     name: 'Mango Mango Dessert',
-    location: 'Squirrel Hill',
+    location: 'Squirrel Hill, Pittsburgh',
     url: 'https://www.mangomangodessert.com/'
   };
 
