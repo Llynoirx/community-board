@@ -1,21 +1,21 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Community Board
 
-Submitted by: **Your Name Here**
+Submitted by: Kathy Ho
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: 5.5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
@@ -26,22 +26,29 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<!-- ![](https://github.com/Llynoirx/web102_prework/blob/main/prework.gif) -->
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with AwesomeScreenshot and EzGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
+
+## Other Resources Used
+https://medium.com/@farhoddev/how-to-create-a-reusable-react-button-component-bac643ca4594
+https://compressjpeg.online/resize-image-to-300x300
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+Had trouble fitting the entirety of an image inside the card; solved by just 
+using another resource to resize to 300x300 each.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Kathy Ho
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
