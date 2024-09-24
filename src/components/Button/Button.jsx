@@ -4,7 +4,7 @@ import "./Button.css"
 // children = text displayed on button
 const Button = ({children, onClick}) =>  {
     return (
-        <button>
+        <button onClick={onClick}>
             {children}
         </button>
     )
