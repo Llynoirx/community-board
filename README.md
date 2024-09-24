@@ -2,7 +2,7 @@
 
 Submitted by: Kathy Ho
 
-This web app: **insert description**
+This web app: Shows cards of delicious bakeries and cafes in Pittsburgh. You can click on the 'See More!' to visit the bakery/cafe's homepage.
 
 Time spent: 5.5 hours spent in total
 
@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<!-- ![](https://github.com/Llynoirx/web102_prework/blob/main/prework.gif) -->
+![](https://github.com/Llynoirx/web102-communityBoard/blob/main/public/web102-proj1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with AwesomeScreenshot and EzGif  
