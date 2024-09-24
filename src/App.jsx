@@ -14,12 +14,46 @@ const App = () => {
       <h1>
         Delicious Bakeries & Cafes in PGH
       </h1>
-      <Store 
-        img={mangomango.img} 
-        name={mangomango.name} 
-        location={mangomango.location} 
-        url={mangomango.url} 
-      />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
+      <Store img={mangomango.img} 
+             name={mangomango.name} 
+             location={mangomango.location} 
+             url={mangomango.url} />
     </div>
     
   )

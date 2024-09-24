@@ -3,17 +3,17 @@
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    width: 750px;
-    height: auto; /* Adjust height automatically */
+    width: 300px;
+    height: auto;
     margin: 16px;
     text-align: center;
     background-color: white;
 }
 
 .store-image {
-    width: 100%; /* Ensures the image takes up the full width of the card */
+    width: 100%;
     height: auto; 
-    object-fit: contain; /* Ensures the entire image is visible */
+    object-fit: contain; 
     background-color: #f0f0f0;
 }
 
